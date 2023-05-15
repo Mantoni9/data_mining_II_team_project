@@ -1,1 +1,7 @@
 data
+sessions_test_task3.csv
+products_train.csv
+sessions_test_task1.csv
+sessions_test_task2.csv
+sessions_train.csv
+submission_task1.parquet
